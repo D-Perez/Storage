@@ -1,3 +1,5 @@
+# A quick and dirty program that crunches all the odd numbers in a range. The important thing here is the dynamic allocation of an array
+
 #include <stdio.h>
 #include <stdlib.h>
 
